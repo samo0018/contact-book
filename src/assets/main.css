@@ -1,0 +1,21 @@
+@import './base.css';
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: rgb(238, 241, 236);
+  font-weight: normal;
+}
+
+a,
+.black {
+  text-decoration: none;
+  color: rgb(36, 36, 36);
+  font-weight: 700;
+}
+
+a, 
+.italics {
+  font-style: italic;
+}
