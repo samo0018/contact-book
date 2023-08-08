@@ -6,7 +6,7 @@ import vueJsx from '@vitejs/plugin-vue-jsx'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/mtm6407-contact-book/',
+  base: '/contact-book/',
   plugins: [
     vue(),
     vueJsx(),
